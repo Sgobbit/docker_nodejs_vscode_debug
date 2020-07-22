@@ -1,0 +1,21 @@
+{
+  "name": "alpha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/alpha.js",
+  "scripts": {
+    "start": "node .",
+    "debug": "node --inspect-brk=0.0.0.0:9229 .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sgobbit/docker_nodejs_vscode_debug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sgobbit/docker_nodejs_vscode_debug/issues"
+  },
+  "homepage": "https://github.com/Sgobbit/docker_nodejs_vscode_debug#readme"
+}
